@@ -1,117 +1,203 @@
-🚀 Application Workflow (Step-by-Step)
-🛰 Step 1: Start the Drone Mission
-User enters site conditions and uploads site images via the Streamlit dashboard.
-AI Commander Agent generates a mission plan based on conditions.
-🛣 Step 2: AI Navigator Plans the Route
-AI optimizes the flight path based on the site structure.
-The route is displayed visually on a 3D map.
-🔍 Step 3: Inspector Analyzes Images
-Drones capture aerial images and videos.
-AI-driven YOLOv8 model scans for anomalies (cracks, leaks, obstacles).
-📡 Step 4: Communicator Sends Live Updates
-Live mission logs appear in the dashboard.
-Alerts are sent if an anomaly is detected.
-🤖 Step 5: Decision Maker Takes Action
-AI suggests rerouting, reinspection, or alerting human operators.
-If no action is required, the mission continues.
-📜 Step 6: Generate Mission Report
-AI generates a detailed PDF mission report.
-Report includes route, findings, and success rate.
-📊 Step 7: Visualization & Analytics
-Live drone status table (battery, active/returning status).
-Mission success rate trends.
-AI agent performance tracking.
+# 🚀 AI Drone Fleet Management System
 
-⚙️ How to Run the Application
-📌 1. Clone the Repository
+## 📌 Overview
+The **AI Drone Fleet Management System** is an **autonomous AI-powered drone control application** that utilizes **multi-agent AI architectures** to plan, analyze, and optimize drone missions for **various industrial applications**.
+
+Using **LLM-powered AI Agents**, this system **plans optimal routes, detects anomalies in real-time, makes autonomous decisions, and generates mission reports**—eliminating the need for manual drone control.
+
+### 🔥 **Key Capabilities**
+✔ **Autonomous Drone Mission Planning** 🛰  
+✔ **Real-time AI-powered Anomaly Detection** 🔍  
+✔ **LLM-powered Decision Making** 🤖  
+✔ **Optimized Flight Path Strategy** 🛣  
+✔ **Automated Report Generation (PDF)** 📜  
+✔ **Live Drone Fleet Monitoring (3D Visualization)** 🗺  
+
+---
+
+## 🌍 **Problem Statement**
+Traditional drone operations require **manual control** and **human intervention** for decision-making. This leads to:
+- Inefficient **route planning** 🚀  
+- **Delayed responses** to hazards 🛑  
+- **Data overload** without intelligent filtering 📊  
+- Lack of **automated anomaly detection** 🚨  
+
+### ✅ **Solution**
+This system enables **AI-powered multi-agent automation**, allowing drones to:
+✔ Plan optimal flight paths 📍  
+✔ Perform real-time **image inspections** 🖼  
+✔ **Detect and respond** to hazards **autonomously** 🚨  
+✔ Generate **detailed mission reports** 📜  
+
+---
+
+## 🔧 **Tech Stack**
+This project utilizes **cutting-edge AI, machine learning, and NLP-based agents**.
+
+| **Technology** | **Purpose** |
+|---------------|------------|
+| **Python 3.11** | Core programming language. |
+| **LangChain** | LLM-based AI reasoning & response generation. |
+| **LangGraph** | Multi-agent workflow orchestration. |
+| **CrewAI** | AI agents working in teams for mission tasks. |
+| **FAISS** (Facebook AI Similarity Search) | **Vector database** for mission retrieval. |
+| **OpenAI/Groq LLMs** | AI decision-making via large language models. |
+| **YOLOv8 (Ultralytics)** | AI-powered **real-time image detection**. |
+| **PyTorch** | Deep learning framework for model execution. |
+| **Streamlit** | **Interactive web-based UI** for mission control. |
+| **MongoDB** | Storing mission logs and reports. |
+| **NGINX** | Proxy for deployment. |
+
+---
+
+## 🤖 **AI Agents Used (LangChain, CrewAI, LangGraph)**
+This system uses a **multi-agent AI architecture**, where **each AI Agent performs a specific role**.
+
+### **1️⃣ AI Commander Agent**
+- **Technology**: LangChain + Groq/OpenAI LLM  
+- **Role**: **Generates a strategic mission plan** based on site conditions.  
+- **How It Works**:  
+  - Accepts **environmental data** (wind, terrain, temperature).  
+  - Uses **LLMs (GPT-4, LLaMA-3, or Mistral)** to generate an **optimized flight path strategy**.  
+  - Outputs a **mission briefing** (route plan, risk assessment, objectives).  
+
+---
+
+### **2️⃣ AI Navigator Agent**
+- **Technology**: LangGraph + FAISS  
+- **Role**: **Optimizes and adjusts drone flight paths** dynamically.  
+- **How It Works**:  
+  - Retrieves past **missions** using **FAISS vector database**.  
+  - Adapts **waypoints** using **LangGraph’s AI-driven task graph**.  
+  - Updates the **drone's route in real-time** in response to obstacles.  
+
+---
+
+### **3️⃣ AI Inspector Agent**
+- **Technology**: Ultralytics YOLOv8 + PyTorch  
+- **Role**: **Analyzes drone-captured images for defects or hazards**.  
+- **How It Works**:  
+  - Runs **YOLOv8 model** to detect cracks, leaks, debris, or unauthorized activity.  
+  - **Outputs a structured anomaly report**.  
+  - Uses **image embeddings** stored in **FAISS** for future retrieval.  
+
+---
+
+### **4️⃣ AI Decision Maker Agent**
+- **Technology**: CrewAI + LLMs (Groq, GPT-4)  
+- **Role**: **Evaluates inspection results and suggests the next actions**.  
+- **How It Works**:  
+  - Takes **YOLO results + navigation data** as input.  
+  - Uses an **LLM** to **decide whether to reroute, alert human operators, or continue mission**.  
+  - Outputs a **structured decision response**.  
+
+---
+
+### **5️⃣ AI Communicator Agent**
+- **Technology**: LangChain + MongoDB  
+- **Role**: **Transmits mission logs and live alerts**.  
+- **How It Works**:  
+  - Stores **all mission events** in a structured **MongoDB database**.  
+  - **Pushes updates** via the **Streamlit web UI**.  
+
+---
+
+## 📌 **Application Workflow (Step-by-Step)**
+### **🛰 Step 1: Start the Drone Mission**
+- Enter **site conditions** in the **Streamlit dashboard**.  
+- Upload site **images** (mining area, construction site, etc.).  
+- The **AI Commander** generates a **mission briefing**.
+
+### **🛣 Step 2: AI Navigator Plans Route**
+- **FAISS-powered retrieval** fetches **previous mission paths**.  
+- The best **flight plan is dynamically adjusted**.  
+
+### **🔍 Step 3: AI Inspector Analyzes Images**
+- AI-powered **YOLOv8 model** detects **cracks, leaks, or obstacles**.  
+- Drones send **real-time footage for analysis**.
+
+### **📡 Step 4: Communicator Sends Updates**
+- Live mission logs and **alerts** appear in the **dashboard**.  
+- AI detects **low battery or environmental risks**.  
+
+### **🤖 Step 5: Decision Maker AI Takes Action**
+- AI **evaluates anomalies and makes decisions**:
+  - **Reroute the drone**.
+  - **Trigger emergency landing**.
+  - **Alert human operators**.
+
+### **📜 Step 6: Generate AI-Powered Mission Report**
+- **Full mission report is auto-generated**.
+- Includes **drone route, inspection results, success rate, and AI decisions**.
+- **Downloadable as a PDF**.  
+
+### **📊 Step 7: Visualization & Analytics**
+- **Live drone status** table (battery, active/returning status).
+- **Mission success rate trends**.
+- **AI agent performance tracking**.
+
+---
+
+## ⚙️ **How to Run the Application**
+### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/sourabh2104/AI-Drone-Fleet
 cd AI-Drone-Fleet
-```
-📌 2. Set Up Virtual Environment
+
+
+## 2️⃣ Install Dependencies
 ```bash
 python3 -m venv m_drones
-source m_drones/bin/activate  # On Windows use `m_drones\Scripts\activate`
-```
-
-📌 3. Install Dependencies
-```bash 
+source m_drones/bin/activate
 pip install -r requirements.txt
 ```
-📌 4. Set Up API Keys & Environment
-Create a .env file and add:
---GROQ_API_KEY=your_api_key_here
 
-📌 5. Run the Application
+### 3️⃣ Set Up API Keys
+Create .env and add:
+```bash
+GROQ_API_KEY=your_api_key_here
+```
+### 4️⃣ Run the Streamlit Application
 ```bash
 streamlit run dashboard/dashboard.py
 ```
 Open http://localhost:8501 in your browser.
 
 
+###🏢 Future Enterprise-Scale Enhancements
+✔ Connect with real drone hardware APIs (DJI, PX4, Ardupilot).
+✔ Deploy on AWS/GCP for cloud-based mission storage.
+✔ Integrate with IoT sensors for environmental data collection.
+✔ Enable real-time 5G connectivity for enhanced mission tracking.
+✔ Upgrade AI models using self-supervised learning (YOLOv9, SAM).
 
-📈 Features & Functionality
-✅ 1. AI-Powered Drone Mission Control
-Automatically assigns tasks to AI agents.
-Plans optimized routes and adjusts for obstacles.
-✅ 2. Real-Time Drone Fleet Tracking
-Displays current GPS location of drones on a 3D map.
-Monitors battery status & mission progress.
-✅ 3. AI-Based Image & Anomaly Detection
-Uses YOLOv8 AI model to analyze drone-captured images.
-Detects cracks, leaks, obstacles, or other hazards.
-✅ 4. AI-Driven Decision Making
-LLM-based Decision Maker Agent suggests reroutes or safety measures.
-Live alerts notify operators of any risks.
-✅ 5. Automated Reporting System
-Generates professional-grade PDF reports.
-Stores mission logs and success rates.
-🏢 How to Scale This for Enterprises
-💼 1. Multi-Drone Integration
-Support for fleet-wide coordination.
-Enable swarm intelligence for large-scale coverage.
-🌍 2. Cloud Integration
-Store mission logs in MongoDB for long-term data tracking.
-Allow access to mission reports from anywhere.
-📡 3. AI-Enhanced Anomaly Detection
-Train a custom AI model to detect industry-specific issues.
-Example: Detect pipeline leaks in oil industries.
-🛠 4. Hardware Integration
-Connect directly with drone APIs (DJI, Parrot, PX4)
-Enable autonomous drone control.
-🚀 5. Deploy as a SaaS Product
-Offer AI Drone Fleet Management as a Service.
-Industry clients can subscribe to manage their drones via a web platform.
-🎯 Future Enhancements
-🚀 Live Drone Video Streaming – Real-time surveillance via web UI.
-📡 5G/IoT Connectivity – Seamless communication with drones.
-🧠 Advanced AI Training – Self-learning AI agents for better decision-making.
-☁️ Cloud-Based Data Storage – Store and retrieve past missions remotely.
+###🎯 Conclusion
+The AI Drone Fleet Management System leverages LLMs, multi-agent AI, and advanced computer vision to revolutionize industrial drone operations.
 
-📝 Conclusion
-The AI Drone Fleet Management System transforms manual drone operations into an AI-driven, efficient, and scalable system. Whether for infrastructure monitoring, security, or disaster management, this application ensures optimized drone performance with minimal human intervention.
-
-💡 🚀 Ready to take AI-powered drone fleet management to the next level? Let’s build the future!
+💡 🚀 Ready to scale AI-powered drone operations? Let’s build the future!
 
 
-
-📩 Contact & Contribution
-👨‍💻 Developed by Sourabh
-🌍 GitHub:
-https://github.com/sourabh2104
-
+### 📩 Contact & Contribution
+👨‍💻 Developer: Sourabh
 📧 Email:
 sourabhyadav1256@gmail.com
 
-Feel free to contribute to this project via Pull Requests or Issues! 🎯
-
-🔥 If you found this project useful, give it a ⭐ on GitHub!
-
-Let me know if you need any modifications! 🚀
+### 🌍 GitHub:
+https://github.com/sourabh2104
 
 
 
 
 
+## 📸 Screenshots
 
+### Mission Control
+![Mission Control](/home/sourabh/Agentic_FLEET_Drone/Screenshots/Mission_Control_Dashboard.png)
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](/home/sourabh/Agentic_FLEET_Drone/Screenshots/Drone_Monitoring.png)
 
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](/home/sourabh/Agentic_FLEET_Drone/Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](/home/sourabh/Agentic_FLEET_Drone/Screenshots/Mission_Success_Rate.png)
