@@ -1,0 +1,26 @@
+# Core Libraries
+streamlit
+langchain
+faiss-cpu
+numpy
+groq
+python-dotenv
+
+# Object Detection (YOLO)
+ultralytics  # YOLOv8 for image analysis
+
+# Geospatial Visualization
+folium  # Interactive maps
+streamlit-folium  # Embed folium maps in Streamlit apps
+
+# Data Handling & Visualization
+pandas  # For handling drone status data
+
+# Text-to-Speech for AI Agents voice
+pyttsx3
+
+# Advanced Visualization
+plotly
+
+# 3D Mining Site Simulation
+pydeck

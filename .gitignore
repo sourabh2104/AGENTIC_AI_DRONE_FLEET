@@ -1,0 +1,46 @@
+# Ignore the virtual environment
+m_drones/
+
+# Ignore environment variable files
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.out
+*.err
+*.pid
+*.gz
+*.swp
+*.swo
+*.bak
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Python files
+*.so
+*.egg-info/
+dist/
+build/
+
+# Ignore VSCode settings (if using VSCode)
+.vscode/
+
+# Ignore Streamlit cache (optional)
+.streamlit/
+
+# Ignore any database files (if using SQLite)
+*.sqlite3
+*.db
+*.sql
