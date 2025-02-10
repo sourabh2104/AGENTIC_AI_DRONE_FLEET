@@ -192,12 +192,285 @@ https://github.com/sourabh2104
 ## 📸 Screenshots
 
 ### Mission Control
-![Mission Control](/home/sourabh/Agentic_FLEET_Drone/Screenshots/Mission_Control_Dashboard.png)
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
 ### 🛰 AI Drone Monitoring
-![AI Drone Monitoring](/home/sourabh/Agentic_FLEET_Drone/Screenshots/Drone_Monitoring.png)
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
 
 ### 🤖 AI Agent Task Breakdown
-![AI Agent Task Breakdown](/home/sourabh/Agentic_FLEET_Drone/Screenshots/AI_Agents_Task_Breakdown.png)
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
 
 ### 📊 Mission Success Rate Table
-![Mission Success Rate](/home/sourabh/Agentic_FLEET_Drone/Screenshots/Mission_Success_Rate.png)
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
+
+## 📸 Screenshots
+
+### Mission Control
+![Mission Control](Screenshots/Mission_Control_Dashboard.png)
+
+### 🛰 AI Drone Monitoring
+![AI Drone Monitoring](Screenshots/Drone_Monitoring.png)
+
+### 🤖 AI Agent Task Breakdown
+![AI Agent Task Breakdown](Screenshots/AI_Agents_Task_Breakdown.png)
+
+### 📊 Mission Success Rate Table
+![Mission Success Rate](Screenshots/Mission_Success_Rate.png)
